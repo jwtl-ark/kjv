@@ -1,7 +1,7 @@
 # kjv
 ### King James Version Bible
 
-* Including all 66 canonical books in a folder-files structure.
+* Including all 66 canonical books in a folder-file structure.
 * Each folder is based on each book's name, with file name based on each chapter.
 * File format: markdown file.
 * Block ID: with block id for easy verse quote.
@@ -15,7 +15,7 @@ Quote Method in Obsidian:
 ```
  ![[book(foldername)/chapter(filename)#^verse]]
 ```
-* For example:
+* For example, if you need to quote Genesis 1:1, you can apply the below markdown code.
   ```
    ![[genesis/genesis-1#^genesis-1-1]]
   ```
