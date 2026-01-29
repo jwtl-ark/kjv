@@ -1,0 +1,50 @@
+---
+title: "Psalms 135"
+book: "Psalms"
+chapter: 135
+---
+
+# Psalms 135
+
+**1** Praise ye the LORD. Praise ye the name of the LORD; praise him, O ye servants of the LORD. ^psalms-135-1
+
+**2** Ye that stand in the house of the LORD, in the courts of the house of our God, ^psalms-135-2
+
+**3** Praise the LORD; for the LORD is good: sing praises unto his name; for it is pleasant. ^psalms-135-3
+
+**4** For the LORD hath chosen Jacob unto himself, and Israel for his peculiar treasure. ^psalms-135-4
+
+**5** For I know that the LORD is great, and that our Lord is above all gods. ^psalms-135-5
+
+**6** Whatsoever the LORD pleased, that did he in heaven, and in earth, in the seas, and all deep places. ^psalms-135-6
+
+**7** He causeth the vapours to ascend from the ends of the earth; he maketh lightnings for the rain; he bringeth the wind out of his treasuries. ^psalms-135-7
+
+**8** Who smote the firstborn of Egypt, both of man and beast. ^psalms-135-8
+
+**9** Who sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants. ^psalms-135-9
+
+**10** Who smote great nations, and slew mighty kings; ^psalms-135-10
+
+**11** Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan: ^psalms-135-11
+
+**12** And gave their land for an heritage, an heritage unto Israel his people. ^psalms-135-12
+
+**13** Thy name, O LORD, endureth for ever; and thy memorial, O LORD, throughout all generations. ^psalms-135-13
+
+**14** For the LORD will judge his people, and he will repent himself concerning his servants. ^psalms-135-14
+
+**15** The idols of the heathen are silver and gold, the work of men’s hands. ^psalms-135-15
+
+**16** They have mouths, but they speak not; eyes have they, but they see not; ^psalms-135-16
+
+**17** They have ears, but they hear not; neither is there any breath in their mouths. ^psalms-135-17
+
+**18** They that make them are like unto them: so is every one that trusteth in them. ^psalms-135-18
+
+**19** Bless the LORD, O house of Israel: bless the LORD, O house of Aaron: ^psalms-135-19
+
+**20** Bless the LORD, O house of Levi: ye that fear the LORD, bless the LORD. ^psalms-135-20
+
+**21** Blessed be the LORD out of Zion, which dwelleth at Jerusalem. Praise ye the LORD. ^psalms-135-21
+
