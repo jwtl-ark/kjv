@@ -1,0 +1,18 @@
+---
+title: "Psalms 70"
+book: "Psalms"
+chapter: 70
+---
+
+# Psalms 70
+
+**1** MAKE HASTE, O GOD, TO DELIVER ME; MAKE HASTE TO HELP ME, O LORD. ^psalms-70-1
+
+**2** Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt. ^psalms-70-2
+
+**3** Let them be turned back for a reward of their shame that say, Aha, aha. ^psalms-70-3
+
+**4** Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified. ^psalms-70-4
+
+**5** But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O LORD, make no tarrying. ^psalms-70-5
+
